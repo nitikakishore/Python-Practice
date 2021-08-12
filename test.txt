@@ -1,0 +1,1 @@
+ I am writing to the file test.txt using the write mode of file operations
